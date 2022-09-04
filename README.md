@@ -1,5 +1,5 @@
 <div align = "center">
-<h1> ✨✨Greetings✨✨, I'm [Lokesh] </h1>
+<h1> ✨✨Greetings✨✨, I'm 𝙇𝙤𝙠𝙚𝙨𝙝 </h1>
 <img src = "./media/behind_dorr.png" width = 250 align = 'left'>
 </div>
 
