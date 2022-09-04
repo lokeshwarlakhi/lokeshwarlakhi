@@ -9,7 +9,7 @@
 
 🖖🏾I have developed few projects which revolves around, machine learning and deep  learning.
 
-🖖🏾When I'm not coding find me watching soccer or                                                               watching Game of Thrones and Drinking Coffee.
+🖖🏾When I'm not coding find me watching soccer watching Game of Thrones and Drinking Coffee.
 
 <hr>
 <div>
