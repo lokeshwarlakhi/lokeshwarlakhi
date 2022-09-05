@@ -28,6 +28,7 @@
 </div>
 <hr>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lokeshwarlakhi.lokeshwarlakhi)
 
 
 <h1 align="center"> Tech stack I'm good at: </h1>
@@ -87,7 +88,10 @@
 <a href="https://github.com/lokeshwarlakhi/Expreme_Music_Assistant" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshwarlakhi&repo=Expreme_Music_Assistant&theme=dark"></a>  
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lokeshwarlakhi.lokeshwarlakhi)
+
+<p align="center">
+  <img src="./media/gday_mate.png" height = "350"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
 </p>
