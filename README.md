@@ -3,9 +3,9 @@
 <img src = "./media/oh_hi_there.png" width = 250 align = 'left'>
 </div>
 
-🖖🏾 I'm a Python developer and Data Science enthusiast . I am currently an Undergrad, pursuing degree in Data Science. I'm also an Open Source lover.
+🖖🏾 I'm a Python developer and Data Science enthusiast from India. I am currently an Undergrad, pursuing bachelors degree in Data Science. I'm also an Open Source lover.
 
-🖖🏾I'm curently interested into everything that revolves around data science : Machine Learning, Deep Learning, Exploratory Data Analysis, Web Scraping , etc.
+🖖🏾I'm curently interested into everything that revolves around Data Science : Machine Learning, Deep Learning, Exploratory Data Analysis, Web Scraping , etc.
 
 🖖🏾I’m looking to collaborate on Deep learning and Machine learning Projects .
 
