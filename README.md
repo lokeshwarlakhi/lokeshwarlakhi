@@ -42,7 +42,7 @@
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./media/css3.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./media/django.png" height="42"></a></code>
   <code><a href="https://pandas.pydata.org/"><img alt=pandas" title="Pandas" src="./media/pandas.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./media/markdown.png" height="42"></a></code>
+  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./media/Markdown.png" height="42"></a></code>
   <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./media/streamlit.png" height="42"></a></code>
 </p>
 <br>
