@@ -42,10 +42,7 @@
   <code><a href="https://devdocs.io/c/"><img alt="C" title="C" src="./media/c.png" height="42"></a></code>
   <code><a href="https://devdocs.io/cpp/"><img alt="C++" title="C++" src="./media/cpp.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./media/django.png" height="42"></a></code>
-  <code><a href="https://pandas.pydata.org/"><img alt=pandas" title="Pandas" src="./media/pandas.png" height="42"></a></code>
-    
-<!--   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./media/javascript.png" height="42"></a></code> -->
-    
+  <code><a href="https://pandas.pydata.org/"><img alt="pandas" title="Pandas" src="./media/pandas.png" height="42"></a></code>
   <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./media/Tensorflow.png" height="42"></a></code>
   <code><a href="https://keras.io/"><img alt="Keras" title="Keras" src="./media/keras.png" height="42"></a></code>
   <code><a href="https://scikit-learn.org/stable/"><img alt="Sklearn" title="Sklearn" src="./media/sklearn.png" height="42"></a></code>
