@@ -1,15 +1,18 @@
 <div align = "center">
-<h1> ✨✨Greetings✨✨, I'm 𝙇𝙤𝙠𝙚𝙨𝙝 </h1>
-<img src = "./media/oh_hi_there.png" width = 250 align = 'left'>
+<h1> ✨✨Greetings✨✨, I'm 𝙇𝙤𝙠𝙚𝙨𝙝 👽 </h1>
+  
+<img src = "./media/oh_hi_there.png" width = 280 align= 'left' style="margin-bottom: 10px; margin-top:15px">
 </div>
 
-🖖🏾 I'm a Python developer and Data Science enthusiast from India. I am currently an Undergrad, pursuing bachelors degree in Data Science. I'm also an Open Source lover.
+🚀 I love data science and have experience working with technologies like Python, pandas, sklearn, tensorflow, SQL and Tableau. I enjoy solving complex problems using data and building machine learning models to make predictions and recommendations.
 
-🖖🏾I'm curently interested into everything that revolves around Data Science : Machine Learning, Deep Learning, Exploratory Data Analysis, Web Scraping , etc.
+🚀 I write blogs on various topics related to data science, machine learning, and artificial intelligence. You can find my articles on my personal blog @ [hashnode](https://lokeshwarlakhi.hashnode.dev/), [Medium](https://medium.com/@lokeshwarlakhi).
 
-🖖🏾I’m looking to collaborate on Deep learning and Machine learning Projects .
+🚀 I record podcasts on data science topics and interview industry experts to learn about their experiences and insights. You can listen to my podcasts on platforms like Spotify and Google Podcasts.
 
-🖖🏾When I'm not coding find me watching soccer and Drinking Coffee.
+🚀 I'm an active member of the data science community and regularly participate in events like hackathons, meetups, and conferences. I love sharing my knowledge and learning from others, and I'm always looking for new opportunities to collaborate and contribute to the community.
+
+🚀 I'm new to open source contributions and looking to activly contribute to open source projects related to data science and machine learning. I believe in the power of open source software to accelerate innovation and democratize access to technology. For now , i'm hunting those `good first issues` and always looking for new projects to contribute to and ways to improve the community.
 
 <br>
 <br>
@@ -20,10 +23,10 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/lokeshwar-lakhi-74a057202//"><img height="50" src="./media/linkedin.png"></a> &nbsp;&nbsp;         
-<a href="https://twitter.com/lokeshwar_Lakhi"><img height="50" src="./media/twitter_.png"></a> &nbsp;&nbsp;      
+<a href="https://twitter.com/lokstwt"><img height="50" src="./media/twitter_.png"></a> &nbsp;&nbsp;      
   <a href="https://t.me/david127001"><img height="50" src="./media/telegram.png"></a> &nbsp;&nbsp;         
   <a href="https://www.instagram.com/lokeshlakhii/"><img height="50" src="./media/instagram.png"></a>  &nbsp;&nbsp;       
-  <a href="https://www.instagram.com/lokeshlakhii/"><img height="50" src="./media/gmail11.png"></a>&nbsp;&nbsp;   
+  <a href="mailto: lokeshwarlakhi@gmail.com"><img height="50" src="./media/gmail11.png"></a>&nbsp;&nbsp;   
   <a href="https://open.spotify.com/user/ql0zx5m1c6kyjla2omti7h2uf"><img height="50" src="./media/spotify.png"></a>  &nbsp;&nbsp;
   <a href="https://www.reddit.com/u/lokeshwarlakhi?utm_medium=android_app&utm_source=share"><img height="50" src="./media/reddit.png"></a>     
  </p>
@@ -33,46 +36,29 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lokeshwarlakhi.lokeshwarlakhi)
 
 
-<h1 align="center"> Tech stack I'm good at: </h1>
+<h1 align="center"> This is everything i know : </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./media/python.png" height="42"></a></code>
   <code><a href="https://devdocs.io/c/"><img alt="C" title="C" src="./media/c.png" height="42"></a></code>
   <code><a href="https://devdocs.io/cpp/"><img alt="C++" title="C++" src="./media/cpp.png" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./media/html5.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./media/css3.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./media/django.png" height="42"></a></code>
   <code><a href="https://pandas.pydata.org/"><img alt=pandas" title="Pandas" src="./media/pandas.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./media/Markdown.png" height="42"></a></code>
-  <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./media/streamlit.png" height="42"></a></code>
-</p>
-<br>
-
-<h1 align="center"> Tech stack I'm still getting better at: </h1>
-<p align="center">
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./media/javascript.png" height="42"></a></code>
+    
+<!--   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./media/javascript.png" height="42"></a></code> -->
+    
   <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./media/Tensorflow.png" height="42"></a></code>
   <code><a href="https://keras.io/"><img alt="Keras" title="Keras" src="./media/keras.png" height="42"></a></code>
   <code><a href="https://scikit-learn.org/stable/"><img alt="Sklearn" title="Sklearn" src="./media/sklearn.png" height="42"></a></code>
-  <code><a href="https://pytorch.org/"><img alt="Sklearn" title="Sklearn" src="./media/pytorch.png" height="42"></a></code>
   <code><a href="https://dev.java/learn/"><img alt="Java" title="Java" src="./media/java.png" height="42"></a></code>
 </p>
-<br>
-
+<hr>
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
   <code><a href="https://www.archlinux.org/"><img alt="Ubuntu" title="Ubuntu" src="./media/ubuntu.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./media/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="Heroku" title="Heroku" src="./media/heroku.png" height="42"></a></code>
-  <!-- <code><a href="https://www.npmjs.com"><img alt="FireBase" title="FireBase" src="./media/firebase.png" height="42"></a></code> -->
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./media/vscode.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Sublime Text" title="Sublime Text" src="./media/sublime.png" height="42"></a></code>
 </p>
 <br>
-
-
-
-
-
 
 # 📊Github stats
 
