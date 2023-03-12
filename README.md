@@ -24,7 +24,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/lokeshwarlakhi/"><img height="50" src="./media/linkedin.png"></a> &nbsp;&nbsp;         
 <a href="https://twitter.com/lokstwt"><img height="50" src="./media/twitter_.png"></a> &nbsp;&nbsp;      
-  <a href="https://t.me/david127001"><img height="50" src="./media/telegram.png"></a> &nbsp;&nbsp;         
+  <a href="https://t.me/davidxllz"><img height="50" src="./media/telegram.png"></a> &nbsp;&nbsp;         
   <a href="https://www.instagram.com/lokeshlakhii/"><img height="50" src="./media/instagram.png"></a>  &nbsp;&nbsp;       
   <a href="mailto: lokeshwarlakhi@gmail.com"><img height="50" src="./media/gmail11.png"></a>&nbsp;&nbsp;   
   <a href="https://open.spotify.com/user/ql0zx5m1c6kyjla2omti7h2uf"><img height="50" src="./media/spotify.png"></a>  &nbsp;&nbsp;
