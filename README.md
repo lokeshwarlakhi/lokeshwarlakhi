@@ -22,7 +22,7 @@
 <h1 align = 'center'>✉ Catch me on </h1>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/lokeshwar-lakhi-74a057202//"><img height="50" src="./media/linkedin.png"></a> &nbsp;&nbsp;         
+<a href="https://www.linkedin.com/in/lokeshwarlakhi/"><img height="50" src="./media/linkedin.png"></a> &nbsp;&nbsp;         
 <a href="https://twitter.com/lokstwt"><img height="50" src="./media/twitter_.png"></a> &nbsp;&nbsp;      
   <a href="https://t.me/david127001"><img height="50" src="./media/telegram.png"></a> &nbsp;&nbsp;         
   <a href="https://www.instagram.com/lokeshlakhii/"><img height="50" src="./media/instagram.png"></a>  &nbsp;&nbsp;       
