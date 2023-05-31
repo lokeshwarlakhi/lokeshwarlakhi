@@ -57,22 +57,6 @@
 </p>
 <br>
 
-# 📊Github stats
-
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lokeshwar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lokeshwarlakhi&show_icons=true&count_private=true&theme=dark&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lokeshwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwarlakhi&langs_count=8&layout=compact&theme=dark&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-</p>
-
-# ⚡My repositories
-
-<p align = "center">
-<a href="https://github.com/lokeshwarlakhi/Hand_written_digit_recognizer" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshwarlakhi&repo=Hand_written_digit_recognizer&theme=dark"></a> 
-<a href="https://github.com/lokeshwarlakhi/Expreme_Music_Assistant" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshwarlakhi&repo=Expreme_Music_Assistant&theme=dark"></a>  
-</p>
-
 
 <p align="center">
   <img src="./media/gday_mate.png" height = "350"/>
