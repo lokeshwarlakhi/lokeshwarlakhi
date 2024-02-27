@@ -45,6 +45,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lokeshwarlakhi&count_private=true&show_icons=true&include_all_commits=true)
 
+### Quote of the day 😌
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div>
 <img src = "./media/signingoff.png"  align= 'center' style="margin-bottom: 10px; margin-top:15px">
