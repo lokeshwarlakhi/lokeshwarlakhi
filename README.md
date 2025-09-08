@@ -5,13 +5,11 @@
 <img src = "./media/oh_hi_there.png" width = 280 align= 'left' style="margin-bottom: 10px; margin-top:15px">
 </div>
 
-🚀 I love data science and have experience working with technologies like Python, pandas, sklearn, tensorflow, SQL and Tableau. I enjoy solving complex problems using data and building machine learning models to make predictions and recommendations.
+🚀 I’m a Python Developer & AI Enthusiast with experience working on technologies like Python, pandas, scikit-learn, pytorch, SQL, and Tableau. I enjoy solving complex problems with data, building machine learning & GenAI models, and creating tools that can make predictions, recommendations, and real-world impact.
 
-🚀 I **write blogs** on various topics related to **data science**, **machine learning**, and **artificial intelligence**. You can find my articles on my personal blog @ [hashnode](https://lokeshwarlakhi.hashnode.dev/), [Medium](https://medium.com/@lokeshwarlakhi).
+🚀 I **write blogs** on various topics related to **Python**, **machine learning**, and **artificial intelligence**. You can find my articles on my personal blog @ [hashnode](https://lokeshwarlakhi.hashnode.dev/), [Medium](https://medium.com/@lokeshwarlakhi).
 
-🚀 I **record podcasts** on data science topics and interview industry experts to learn about their experiences and insights. You can listen to my podcasts on platforms like Spotify and Google Podcasts.
-
-🚀 I'm an active member of the data science community and regularly participate in events like hackathons, meetups, and conferences. I love sharing my knowledge and learning from others, and I'm always looking for new opportunities to collaborate and contribute to the community.
+🚀 I’m an active member of the AI/ML community, regularly engaging in hackathons, meetups, and conferences. I love sharing knowledge, learning from peers, and collaborating on meaningful projects.
 
 🚀 I'm new to open source contributions and looking to activly contribute to open source projects related to data science and machine learning. I believe in the power of open source software to accelerate innovation and democratize access to technology. For now , i'm hunting those `good first issues` and always looking for new projects to contribute to and ways to help the community.
 
@@ -22,6 +20,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-red.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
