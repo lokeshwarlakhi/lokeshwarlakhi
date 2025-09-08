@@ -38,7 +38,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lokeshwarlakhi.hashnode.dev/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lokeshwarlakhi)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=lokeshwarlakhi&text=Pink)](https://medium.com/@lokeshwarlakhi)
+[![Lokesh's Medium](https://github-readme-medium.vercel.app/?username=lokeshwarlakhi&text=Pink)](https://medium.com/@lokeshwarlakhi)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lokeshwarlakhi)](https://github.com/lokeshwarlakhi/github-profile-trophy) -->
 
